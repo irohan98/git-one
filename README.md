@@ -1,2 +1,2 @@
 # git-one
-Just a trial to get the hang off things in GitHub
+Just a trial to get the hang of things in GitHub
